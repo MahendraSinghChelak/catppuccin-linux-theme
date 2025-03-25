@@ -56,10 +56,6 @@ Enable GTK theme for Flatpack apps run:
 `sudo flatpak override --filesystem=$HOME/.themes`  
 `sudo flatpak override --env=GTK_THEME=Catppuccin-GnomeTheme`  
 
-### 🔹 Gradience
-App: https://gradienceteam.github.io / https://github.com/GradienceTeam/Gradience  
-Import to Gradience and apply Catppuccin Mocha Maroon theme from this repo `/.config/presets/user`  
-
 ### 🔹 Dock Icons  
 Relevant Files: `/dot_files/.icons/WhiteSur.zip`  
 Use [Gnome Tweaks](https://docs.rockylinux.org/desktop/gnome/gnome-tweaks/) to select and apply.   
