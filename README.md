@@ -61,8 +61,8 @@ Relevant Files: `/dot_files/.icons/WhiteSur.zip`
 Use [Gnome Tweaks](https://docs.rockylinux.org/desktop/gnome/gnome-tweaks/) to select and apply.   
 
 **Icons**
-[WhiteSur](https://www.gnome-look.org/p/1405756) / https://github.com/vinceliuice/WhiteSur-icon-theme  
-[Mkos-Big-Sur](https://www.gnome-look.org/p/1400021) / https://github.com/zayronxio/Mkos-Big-Sur  
+- [WhiteSur](https://www.gnome-look.org/p/1405756) / https://github.com/vinceliuice/WhiteSur-icon-theme  
+- [Mkos-Big-Sur](https://www.gnome-look.org/p/1400021) / https://github.com/zayronxio/Mkos-Big-Sur  
 
 ### 🔹 Extension Manager
 App: https://github.com/mjakeman/extension-manager  
@@ -93,7 +93,7 @@ You can download Catppuccin Mocha Theme and Icons as modules in VSC
 ### 🔹 Stylus / Browser Extension
 Relevant Files: [other/stylus](other/stylus)  
 [Chrome / Edge / Brave / Arc](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?pli=1) | [Firefox / Zen](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)  
-[Styles Customizer](https://catppuccin-userstyles-customizer.uncenter.dev/)  
+Make your JSON: [Styles Customizer](https://catppuccin-userstyles-customizer.uncenter.dev/)  
 Add Stylus browser extension, import `.json` file, update styles and sync with your cloud.  
 ### 🔹 Spotify / Spicetify
 Website: https://spicetify.app/ | [Installation Guide](https://spicetify.app/docs/advanced-usage/installation/)  
@@ -262,7 +262,8 @@ Manage your dotfiles across multiple diverse machines, securely.
 - [Amberol](https://github.com/adamjatim/amberol) - Music player
 - [Blanket](https://github.com/rafaelmardojai/blanket) - Listen to different ambient sounds
 - [Cider](https://cider.sh/) - Apple Music player
-- [Cozy](https://cozy.sh/) - Modern audiobook player 
+- [Cozy](https://cozy.sh/) - Modern audiobook player
+- [Easy Effects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer
 - [Lollypop](https://wiki.gnome.org/Apps/Lollypop) - Music player
 - [Spotify](https://open.spotify.com/) - Music player
 - [Spotude](https://spotube.krtirtho.dev/) - Open source Spotify client
