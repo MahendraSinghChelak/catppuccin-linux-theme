@@ -57,12 +57,12 @@ Enable GTK theme for Flatpack apps run:
 `sudo flatpak override --env=GTK_THEME=Catppuccin-GnomeTheme`  
 
 ### 🔹 Dock Icons  
-Relevant Files: `/dot_files/.icons/WhiteSur.zip`  
-Use [Gnome Tweaks](https://docs.rockylinux.org/desktop/gnome/gnome-tweaks/) to select and apply.   
-
 **Icons**
 - [WhiteSur](https://www.gnome-look.org/p/1405756) / https://github.com/vinceliuice/WhiteSur-icon-theme  
-- [Mkos-Big-Sur](https://www.gnome-look.org/p/1400021) / https://github.com/zayronxio/Mkos-Big-Sur  
+- [Mkos-Big-Sur](https://www.gnome-look.org/p/1400021) / https://github.com/zayronxio/Mkos-Big-Sur
+
+Relevant Files: `/dot_files/.icons/WhiteSur.zip`  
+Use [Gnome Tweaks](https://docs.rockylinux.org/desktop/gnome/gnome-tweaks/) to select and apply.   
 
 ### 🔹 Extension Manager
 App: https://github.com/mjakeman/extension-manager  
