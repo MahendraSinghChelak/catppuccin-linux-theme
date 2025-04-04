@@ -36,7 +36,7 @@ https://t.me/catppuccin_theme
 Download wallpapers in Telegram Channel
 
 ### 🔹 Youtube video
-https://youtu.be/7wIWAlp8DGY | https://youtu.be/UBSmT51ljUA   
+https://youtu.be/yRR9R3icnqk | https://youtu.be/7wIWAlp8DGY | https://youtu.be/UBSmT51ljUA   
 
 ### 🔹 Spotify Playlist
 https://spti.fi/catppuccin  
