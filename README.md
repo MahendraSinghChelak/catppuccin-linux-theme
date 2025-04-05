@@ -69,6 +69,7 @@ App: https://github.com/mjakeman/extension-manager
 Website: https://extensions.gnome.org/ |  [Chrome Extension](https://chromewebstore.google.com/detail/gnome-shell-integration/gphhapmejobijbbhgpjhcjognlahblep)  
 
 **Entesions**
+- [Dash2Dock Animated](https://github.com/icedman/dash2dock-lite) - Control Dock Icons
 - [Dash to Dock](https://github.com/micheleg/dash-to-dock) - Control Dock Icons
 - [Desktop Cube](https://github.com/Schneegans/Desktop-Cube) - 3D Workspace Switcher
 - [Tiling Shell](https://github.com/domferr/tilingshell) - Windows tiling system
@@ -89,6 +90,10 @@ Website: https://extensions.gnome.org/ |  [Chrome Extension](https://chromewebst
 ### 🔹 Visual Studio Code
 https://github.com/catppuccin/vscode - Mocha Theme  
 You can download Catppuccin Mocha Theme and Icons as modules in VSC  
+
+### 🔹 Zed
+https://zed.dev/  
+Press `Ctrl + Shift + X` and search for Catppuccin Mocha Theme and Icons  
 
 ### 🔹 Stylus / Browser Extension
 Relevant Files: [other/stylus](other/stylus)  
